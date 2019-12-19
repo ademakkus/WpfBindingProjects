@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfBaseBinding", "WpfBaseBi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfExplicitBinding", "WpfExplicitBinding\WpfExplicitBinding.csproj", "{D3A3BAF9-539A-40A5-9E33-37DF8E350B2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfDataContext", "WpfDataContext\WpfDataContext.csproj", "{3471295E-18BC-4025-A4A7-4F508C2BCC27}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D3A3BAF9-539A-40A5-9E33-37DF8E350B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3A3BAF9-539A-40A5-9E33-37DF8E350B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3A3BAF9-539A-40A5-9E33-37DF8E350B2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3471295E-18BC-4025-A4A7-4F508C2BCC27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3471295E-18BC-4025-A4A7-4F508C2BCC27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3471295E-18BC-4025-A4A7-4F508C2BCC27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3471295E-18BC-4025-A4A7-4F508C2BCC27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
